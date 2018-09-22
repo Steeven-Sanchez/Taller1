@@ -1,0 +1,99 @@
+body
+{
+	background-color:#F2F2F2;
+	font-family: "Helvetica",Arial;
+}
+#contenido
+{
+	width: 960px;
+	margin: 0 auto;
+	text-align :center;
+}
+h1
+{
+	color: #0B2161;
+	font-family: 'Merriweather', serif;
+}
+h2
+{
+	color:#B40404;
+	font-family: 'Merriweather', serif;
+}
+
+nav ul li
+{
+	display :inline-block;
+	margin-right: 20px;
+	cursor: pointer;
+	font-family: 'Merriweather', serif;
+}
+nav ul li:hover
+{
+	background-color: #d1d1d1;
+	color:#FF0000;
+	border-radius: 5px;
+}
+#TextoPrin
+{
+	width: 600px;
+	height: 300px;
+
+	color: #000000;
+	border-radius : 20px;
+	padding: 20px;
+	box-shadow : 0px 0px 20px rgba(0,0,0,0.5);
+	margin: 0 auto;
+	text-align: left;
+}
+img
+{
+	width:230px	;
+	height: auto;
+	border-radius: 10px;
+	box-shadow : 0px 0px 20px rgba(0,0,0,1);
+}
+#Hobbies
+{
+	width: 600px;
+	height: 400px;
+
+	color: #000000;
+	border-radius : 20px;
+	padding: 20px;
+	box-shadow : 0px 0px 20px rgba(0,0,0,0.5);
+	margin: 0 auto;
+	text-align: center;
+}
+#TablaProyecto
+{
+	margin: 50px auto;
+	width: 700px;
+	
+}
+#Video
+{
+	margin: 50px auto;
+	width: 700px;
+}
+
+table
+{
+	background-color: #fff;
+	border-collapse:collapse;
+	text-align: center;
+	width: 100%;
+}
+th, td
+{
+	border : solid 1px black;
+	padding: 10px;
+	
+}
+thead
+{
+	background-color: #610B21;
+	border-bottom: solid 5px #3B0B17;
+	color: white;
+	text-align: center;
+	
+}
